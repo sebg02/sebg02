@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Sebastián from Colombia 🇨🇴<br><br>- 🟢 SpringBoot +🔵React<br>- 📚 Systems Engineering student<br>-  🤓 Always learning</p>
+<p align="left">I'm Sebastián from Colombia 🇨🇴<br><br>- 🟢SpringBoot +🔵React<br>- 📚 Systems Engineering student<br>-  🤓 Always learning</p>
 
 ###
 
